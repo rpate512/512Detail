@@ -1,0 +1,36 @@
+/* RED AND BLACK LOGO:  
+ Red: #76140C  
+ Light Red: #994C4A  
+ Light Black: #292929  
+ Black: #010101  */
+
+/* SILVER AND BLACK LOGO:
+  Light Silver: #F1F0F2
+  Silver: #8D949B
+  Black: #00001
+  */
+
+body {
+  background-color: black;
+}
+.center, .mainDisplay, .lead {
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+.mainDisplay, .lead {
+  font-family: 'Cinzel', serif;
+  text-align: center;
+  font-weight: bold; 
+
+}
+
+footer {
+  font-style: oblique;
+  text-align: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding: 20px;
+}
